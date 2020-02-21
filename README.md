@@ -1,4 +1,4 @@
 # OneTeam
 
-- [] Alice
-- [] k15014kk
+- [ ] Alice
+- [ ] k15014kk
